@@ -1,0 +1,14 @@
+Agregue las siguientes Keywords a todas las paginas del sitio web "ANTONS, DULCES, PASTELERIA, ARTESANAL, DULCE, GOLOCINAS, ALFAJORES, FACTURAS, CHOCOLATE, MEDIALUNAS"
+
+
+Agregue la descripcion "Antons Dulces es un pequeño emprendimiento platense dedicado a la pasteleria artesanal que vende diferentes tipos de golocinas y dulces."
+
+
+Cambie todos los titulos por:
+"Antons Dulces Pasteleria artesanal" Para la pagina de inicio
+"Antons Dulces Nuestros Productos" Para la pagina de productos
+"Antons Dulces/Galeria" Para la pagina de galeria
+"Antons Dulces Nuestra Historia" Para la pagina nosotros
+"Antons Dulces Contactanos" Para la pagina de contacto
+
+
